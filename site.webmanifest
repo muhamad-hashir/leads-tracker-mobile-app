@@ -1,6 +1,7 @@
 {
     "name": "Leads Tracker",
     "short_name": "Leads Tracker",
+    "start_url": "/",
     "icons":
         [
             { 
